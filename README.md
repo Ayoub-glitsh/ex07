@@ -48,7 +48,7 @@ This project helps you practice:
 
 1. Clone the repository:
 
-   git clone [https://github.com/](https://github.com/)<your-username>/ex07.git
+   git clone https://github.com/Ayoub-glitsh/ex07.git 
    cd ex07
 
 2. Open the ex07.sql file in DBeaver, MySQL Workbench, or any SQL tool.
